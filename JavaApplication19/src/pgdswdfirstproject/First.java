@@ -19,5 +19,7 @@ public class First {
         System.out.println("Change from Keno");
         //Printing out nickname :)
         System.out.println("Change from Mli");
+        
+        System.out.println("Noni made a change and Neo is cool :)");
   }
 }
